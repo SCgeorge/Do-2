@@ -71,4 +71,9 @@ todo.addEventListener('contextmenu', function(event){ //CTRL + RIGHT CLICK  = DE
     });
 });
 
+// test code for changing theme color, at least to make them 2-3
+
+
+
+
 
