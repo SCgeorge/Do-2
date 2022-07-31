@@ -9,8 +9,7 @@
 --var-bgcolor: #333;
 --var-fontcolor: #eee;
      }
-} // this must change color scheme despite on your device preferences
-
+}
 
 
  body {
@@ -111,4 +110,11 @@
     border-radius: 0;
     margin: 0 15px 5px 5px; }
 
+.menubar {
+width: 900px;
+height: 46px;
+margin-left: auto;
+margin-right: auto;
+font-size: 1.4em;
+}
 
